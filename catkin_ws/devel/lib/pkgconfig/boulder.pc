@@ -1,0 +1,8 @@
+prefix=/home/r/rowlanrp/ros-baxter-coffee/catkin_ws/devel
+
+Name: boulder
+Description: Description of boulder
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/r/rowlanrp/ros-baxter-coffee/catkin_ws/devel/lib 
+Requires: 
