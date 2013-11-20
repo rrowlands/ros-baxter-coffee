@@ -1,0 +1,8 @@
+prefix=/home/p/peth8881/robotics/ws_moveit/devel
+
+Name: moveit_simple_controller_manager
+Description: Description of moveit_simple_controller_manager
+Version: 0.5.5
+Cflags: 
+Libs: -L/home/p/peth8881/robotics/ws_moveit/devel/lib 
+Requires: moveit_core

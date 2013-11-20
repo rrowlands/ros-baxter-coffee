@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "moveit_ros_move_group")
+set(moveit_ros_move_group_MAINTAINER "Ioan Sucan <isucan@willowgarage.com>")
+set(moveit_ros_move_group_DEPRECATED "")
+set(moveit_ros_move_group_VERSION "0.5.7")
+set(moveit_ros_move_group_BUILD_DEPENDS "moveit_core" "moveit_ros_planning" "actionlib" "tf" "pluginlib")
+set(moveit_ros_move_group_RUN_DEPENDS "moveit_core" "moveit_ros_planning" "actionlib" "tf" "pluginlib")
+set(moveit_ros_move_group_BUILDTOOL_DEPENDS "catkin")

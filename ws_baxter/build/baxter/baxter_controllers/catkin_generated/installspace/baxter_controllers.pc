@@ -1,0 +1,8 @@
+prefix=/home/p/peth8881/robotics/ws_baxter/install
+
+Name: baxter_controllers
+Description: Description of baxter_controllers
+Version: 0.2.1
+Cflags: -I/home/p/peth8881/robotics/ws_baxter/install/include
+Libs: -L/home/p/peth8881/robotics/ws_baxter/install/lib -lbaxter_controllers
+Requires: controller_interface control_toolbox effort_controllers baxter_msgs

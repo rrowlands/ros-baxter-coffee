@@ -1,0 +1,8 @@
+prefix=/home/p/peth8881/robotics/ws_moveit/devel
+
+Name: moveit_commander
+Description: Description of moveit_commander
+Version: 0.5.2
+Cflags: 
+Libs: -L/home/p/peth8881/robotics/ws_moveit/devel/lib 
+Requires: 

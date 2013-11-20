@@ -1,0 +1,8 @@
+prefix=/home/p/peth8881/robotics/ws_moveit/devel
+
+Name: moveit_ros_manipulation
+Description: Description of moveit_ros_manipulation
+Version: 0.5.7
+Cflags: -I/home/p/peth8881/robotics/ws_moveit/devel/include -I/home/p/peth8881/robotics/ws_moveit/src/moveit_ros/manipulation/pick_place/include -I/home/p/peth8881/robotics/ws_moveit/src/moveit_ros/manipulation/move_group_pick_place_capability/include
+Libs: -L/home/p/peth8881/robotics/ws_moveit/devel/lib -lmoveit_pick_place_planner
+Requires: moveit_core moveit_ros_planning

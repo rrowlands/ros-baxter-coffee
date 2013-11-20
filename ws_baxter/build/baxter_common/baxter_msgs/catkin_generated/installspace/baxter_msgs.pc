@@ -1,0 +1,8 @@
+prefix=/home/p/peth8881/robotics/ws_baxter/install
+
+Name: baxter_msgs
+Description: Description of baxter_msgs
+Version: 0.6.1
+Cflags: -I/home/p/peth8881/robotics/ws_baxter/install/include
+Libs: -L/home/p/peth8881/robotics/ws_baxter/install/lib 
+Requires: std_msgs geometry_msgs

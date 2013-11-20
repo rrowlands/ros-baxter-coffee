@@ -1,0 +1,8 @@
+prefix=/home/p/peth8881/robotics/ws_moveit/devel
+
+Name: moveit_setup_assistant
+Description: Description of moveit_setup_assistant
+Version: 0.5.3
+Cflags: -I/home/p/peth8881/robotics/ws_moveit/src/moveit_setup_assistant/include
+Libs: -L/home/p/peth8881/robotics/ws_moveit/devel/lib -lmoveit_setup_assistant_tools
+Requires: moveit_ros_planning moveit_ros_visualization
