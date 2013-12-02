@@ -1,0 +1,8 @@
+prefix=/home/p/peth8881/robotics/ws_baxter/devel
+
+Name: baxter_pick_place
+Description: Description of baxter_pick_place
+Version: 0.2.1
+Cflags: 
+Libs: -L/home/p/peth8881/robotics/ws_baxter/devel/lib 
+Requires: 

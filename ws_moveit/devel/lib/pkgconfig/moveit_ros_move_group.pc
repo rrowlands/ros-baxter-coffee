@@ -1,0 +1,8 @@
+prefix=/home/p/peth8881/robotics/ws_moveit/devel
+
+Name: moveit_ros_move_group
+Description: Description of moveit_ros_move_group
+Version: 0.5.7
+Cflags: -I/home/p/peth8881/robotics/ws_moveit/src/moveit_ros/move_group/include
+Libs: -L/home/p/peth8881/robotics/ws_moveit/devel/lib -lmoveit_move_group_capabilities_base
+Requires: moveit_core moveit_ros_planning
